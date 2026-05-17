@@ -4,19 +4,19 @@ public class largestElement {
 
     static int findLargest(int[] arr){
         
-        int largestElement = 0;
+        int max = 0;
 
-        for(int i = 1; i < arr.length; i++) {
-            if(arr[i] > arr[largestElement]){
-                largestElement = i;
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] > arr[max]) {
+                max = i;
             }
         }
 
-        return arr[largestElement];
+        return arr[max];
     }
 
     public static void main(String[] args) {
-        int[] arr = { 2, 1, 9, 3, 6};   
+        int[] arr = { 8, 10, 5, 7, 9 };   
         System.out.println(findLargest(arr));
     }
 }
