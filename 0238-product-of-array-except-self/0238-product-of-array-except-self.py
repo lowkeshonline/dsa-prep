@@ -1,20 +1,26 @@
-class Solution(object):
-    def productExceptSelf(self, nums):
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        
         n = len(nums)
+        res = [1] * n
 
-        ans = [0] * n
-        prefix = [0] * n
-        suffix = [0] * n
-
-        prefix[0] = 1
-        for i in range(1, n):
-            prefix[i] = prefix[i - 1] * nums[i - 1]
-
-        suffix[n - 1] = 1
-        for i in range(n - 2, -1, -1):
-            suffix[i] = suffix[i + 1] * nums[i + 1]
+        #initialize prefix as 1
+        prefix = 1
 
         for i in range(n):
-            ans[i] = prefix[i] * suffix[i]
+            #update prefix with current num element for next step
+            res[i] = prefix
+            prefix *= nums[i]
 
-        return ans
+        #so now we have the prefix in our result array
+
+        #now as we initiate the postfix with 1
+        postfix = 1
+        #iterate the array in reverse
+        for i in range(n-1, -1, -1):
+            #mulitply the res final element with current postfix
+            res[i] *= postfix
+            #keep updating current postfix with the nums element
+            postfix *= nums[i]
+
+        return res
