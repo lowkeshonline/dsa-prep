@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lowkeshonline/dsa-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lowkeshonline/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/lowkeshonline/dsa-prep/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lowkeshonline/dsa-prep/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lowkeshonline/dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/lowkeshonline/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [1929-concatenation-of-array](https://github.com/lowkeshonline/dsa-prep/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/lowkeshonline/dsa-prep/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lowkeshonline/dsa-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/lowkeshonline/dsa-prep/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lowkeshonline/dsa-prep/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/lowkeshonline/dsa-prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lowkeshonline/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lowkeshonline/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/lowkeshonline/dsa-prep/tree/master/0219-contains-duplicate-ii) |
 ## Simulation
 |  |
 | ------- |
