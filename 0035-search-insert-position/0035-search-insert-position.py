@@ -8,12 +8,6 @@ class Solution:
 
         mid = 0
 
-        if (target < nums[0]):
-            return 0
-
-        if (target > nums[n - 1]):
-            return n
-        
 
         while(left <= right):
             
@@ -29,10 +23,7 @@ class Solution:
                 right = mid - 1
         
         
-        if (mid < n and nums[mid] > target):
-            return mid
-        else:
-            return mid + 1 
+        return mid if (mid < n and nums[mid] > target) else mid + 1 
 
 
 
