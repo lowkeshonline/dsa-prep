@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/lowkeshonline/dsa-prep/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lowkeshonline/dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/lowkeshonline/dsa-prep/tree/master/0347-top-k-frequent-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/lowkeshonline/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/lowkeshonline/dsa-prep/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
