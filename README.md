@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lowkeshonline/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lowkeshonline/dsa-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lowkeshonline/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/lowkeshonline/dsa-prep/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/lowkeshonline/dsa-prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lowkeshonline/dsa-prep/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lowkeshonline/dsa-prep/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@
 | [0042-trapping-rain-water](https://github.com/lowkeshonline/dsa-prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/lowkeshonline/dsa-prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lowkeshonline/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/lowkeshonline/dsa-prep/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/lowkeshonline/dsa-prep/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/lowkeshonline/dsa-prep/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
