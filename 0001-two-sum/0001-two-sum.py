@@ -1,12 +1,25 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
 
-        n = len(nums)
+        """
+        Brute force : Write two nested loops. Check each element with every other elements. If it add upto target and not same index return the indices
 
-        for i in range(n):
-            for j in range(i, n):
+        Better Approach : Take the complement and store the value as key and index as hash. Check if the complement already exists in the array with index. 
+        """
 
-                if i != j and nums[i] + nums[j] == target:
+        hash_map = {}
 
-                    return [i,j]
+        for idx,val in enumerate(nums):
+
+            complement = target - nums[idx]
+
+            if complement in hash_map:
+
+                return [hash_map[complement], idx]
+            
+            hash_map[val] = idx
+
+        
+
+
         
