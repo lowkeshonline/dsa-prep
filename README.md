@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/lowkeshonline/dsa-prep/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lowkeshonline/dsa-prep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lowkeshonline/dsa-prep/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/lowkeshonline/dsa-prep/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lowkeshonline/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lowkeshonline/dsa-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lowkeshonline/dsa-prep/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0015-3sum](https://github.com/lowkeshonline/dsa-prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/lowkeshonline/dsa-prep/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/lowkeshonline/dsa-prep/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/lowkeshonline/dsa-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lowkeshonline/dsa-prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lowkeshonline/dsa-prep/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +95,7 @@
 | [0015-3sum](https://github.com/lowkeshonline/dsa-prep/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lowkeshonline/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lowkeshonline/dsa-prep/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/lowkeshonline/dsa-prep/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/lowkeshonline/dsa-prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lowkeshonline/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lowkeshonline/dsa-prep/tree/master/0189-rotate-array) |
@@ -137,4 +140,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lowkeshonline/dsa-prep/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lowkeshonline/dsa-prep/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lowkeshonline/dsa-prep/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
