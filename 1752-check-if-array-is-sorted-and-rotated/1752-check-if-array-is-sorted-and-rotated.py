@@ -4,8 +4,11 @@ class Solution:
         breaks = 0
 
         for i in range(len(nums)):
-            
-            if nums[(i + 1) % len(nums)] < nums[i]: breaks += 1
-            
-        return breaks <= 1
+
+            if nums[i] > nums[(i + 1) % len(nums)]:
+                
+                breaks += 1
+        
+        return breaks < 2
+
         
