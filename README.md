@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/lowkeshonline/dsa-prep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lowkeshonline/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/lowkeshonline/dsa-prep/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/lowkeshonline/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lowkeshonline/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/lowkeshonline/dsa-prep/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lowkeshonline/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lowkeshonline/dsa-prep/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/lowkeshonline/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/lowkeshonline/dsa-prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lowkeshonline/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/lowkeshonline/dsa-prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/lowkeshonline/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
